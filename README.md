@@ -1,6 +1,10 @@
 # flexbox-example
 
+元記事
+
 https://qiita.com/hashrock/items/939684b9207dbab1d59e
+
+リンク
 
  * [Two column](https://hashrock.github.io/flexbox-example/page1.html)
  * [Three column](https://hashrock.github.io/flexbox-example/page2.html)
